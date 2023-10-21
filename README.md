@@ -1,4 +1,4 @@
-# cookies_grabber
+# CookieNinjitsu
 This code is a Python script that attempts to steal and send Chrome browser credentials to a specified Discord webhook. Here's a breakdown of the code:
 
 Import necessary modules: The script imports several modules including os, json, base64, sqlite3, shutil, datetime, and discord_webhook.
